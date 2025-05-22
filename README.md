@@ -26,7 +26,7 @@ midterm project
 
 └─ results\              ← 여기에 결과 자동 저장
 
--다음으로 "cd (HF_project의 파일경로)" 를 입력해주시고, "python .\examples\h2_energy.py" 를 해주시면 잠시후 계산이 시작됩니다.
+-다음으로 "cd (HF_project의 파일경로)" 를 입력해주시고, "python .\examples\h2_energy.py" 를 해주시면 잠시후 계산이 시작됩니다.  (visual studio code 터미널을 이용한 작업 기준)
 
 - 그래프의 범위를 바꾸고 싶다면, h2_energy.py를 입력하신다음 19번째 줄에서 distances = np.linspace(0.1, 2.0, 20) 에서 수치를 변경시켜주면 됩니다. "linespace((그래프 시작지점),(그래프 끝지점), (간격))" 이 되겠습니다.
 
